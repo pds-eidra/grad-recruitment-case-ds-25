@@ -24,7 +24,7 @@ Expand-Archive data.zip -DestinationPath .
 Remove-Item data.zip
 ```
 
-### 2. Install Dependencies
+### 2. Environment & Dependencies
 
 ```bash
 # TODO: Add installation instructions allowing someone to replicate your environment.
@@ -33,5 +33,5 @@ Remove-Item data.zip
 ## Usage
 
 ```bash
-# TODO: Add command(s) to run all of the code to generate the assets used in your analysis.
+# TODO: Add command(s) to run all of the code to generate the assets used in your analysis and presentation.
 ```
